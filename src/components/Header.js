@@ -36,6 +36,10 @@ function Header() {
             <li><a href='#'>Trade-in</a></li>
             <li><a href='#'>Cybertruck</a></li>
             <li><a href='#'>Roadster</a></li>
+            <li><a href='https://www.linkedin.com/in/nikhil-malkhede-34b43022a/'>Linkedin</a></li>
+            <li><a href='https://github.com/NIKHILMALKHEDE'>GitHub</a></li>
+            <li><a href='#'>malkhedenikhil@gmail.com</a></li>
+            <li><a>NIKHIL MALKHEDE</a></li>
         </BurgerNav>
       </Container>
   )
