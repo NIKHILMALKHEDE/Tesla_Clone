@@ -38,7 +38,7 @@ function Header() {
             <li><a href='#'>Roadster</a></li>
             <li><a href='https://www.linkedin.com/in/nikhil-malkhede-34b43022a/' target="_blank" rel="noopener noreferrer">Linkedin</a></li>
             <li><a href='https://github.com/NIKHILMALKHEDE' target="_blank" rel="noopener noreferrer">GitHub</a></li>
-            <li><a href='#'>malkhedenikhil@gmail.com</a></li>
+            <li><a href='mailto:malkhedenikhil@gmail.com'>malkhedenikhil@gmail.com</a></li>
             <li><a>NIKHIL MALKHEDE</a></li>
         </BurgerNav>
       </Container>
